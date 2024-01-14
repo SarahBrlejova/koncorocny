@@ -1,0 +1,150 @@
+{
+  "zoznamPretekov": [
+    {
+      "id": 1,
+      "nazov": "Zde jsou lvi",
+      "km": "82km",
+      "popis": "Dogtrekking zaradený do seriálu MČR",
+      "odkaz": "https://www.facebook.com/events/391872536644649",
+      "image": "logo.png",
+      "poloha": "Krnovsko",
+      "datum": "28.-31.3.2024"
+    },
+    {
+      "id": 2,
+      "nazov": "Dogtrekking Šlapanický vlk",
+      "km": "80 a více km",
+      "popis": "Dogtrekking zaradený do seriálu MČR",
+      "odkaz": "http://slapanicky-vlk.kkslapanice.com/",
+      "image": "logo.png",
+      "poloha": "Moravský kras",
+      "datum": "11.-14.4.2024"
+    },
+    {
+      "id": 3,
+      "nazov": "Krušnohorský dogtrekking",
+      "km": "80 a více km",
+      "popis": "Dogtrekking zaradený do seriálu MČR",
+      "odkaz": "https://dogtrekking.estranky.cz/",
+      "image": "logo.png",
+      "poloha": "Krušné hory",
+      "datum": "25.4.-28.4.2024"
+    },
+    {
+      "id": 4,
+      "nazov": "DT Rudolf jede na Sázavu",
+      "km": "80 a více km",
+      "popis": "Dogtrekking zaradený do seriálu MČR",
+      "odkaz": "https://www.postopachrudolfa.cz/",
+      "image": "logo.png",
+      "poloha": "Sázava",
+      "datum": "9.-12.5.2024"
+    },
+    {
+      "id": 5,
+      "nazov": "V srdci Česka",
+      "km": "80 a více km",
+      "popis": "Dogtrekking zaradený do seriálu MČR",
+      "odkaz": "https://vsrdciceska.cz/",
+      "image": "logo.png",
+      "poloha": "Žďárské vrchy",
+      "datum": "30.5.-2.6.2024"
+    },
+    {
+      "id": 6,
+      "nazov": "DT Krajem břidlice",
+      "km": "80 a více km",
+      "popis": "Dogtrekking zaradený do seriálu MČR",
+      "odkaz": "https://www.ledovastopa.cz/",
+      "image": "logo.png",
+      "poloha": "Nízký Jeseník",
+      "datum": "13.-16.6.2024"
+    },
+    {
+      "id": 7,
+      "nazov": "Dogtrekking Beskydský puchýř",
+      "km": "80 a více km",
+      "popis": "Dogtrekking zaradený do seriálu MČR",
+      "odkaz": "http://slapanicky-vlk.kkslapanice.com/",
+      "image": "logo.png",
+      "poloha": "Beskydy",
+      "datum": "27.-30.6.2024 "
+    },
+    {
+      "id": 8,
+      "nazov": "Stopou strejdy Šeráka",
+      "km": "80 a více km",
+      "popis": "Dogtrekking zaradený do seriálu MČR",
+      "odkaz": "https://strejdaserak.cz/",
+      "image": "logo.png",
+      "poloha": "Rychlebské hory",
+      "datum": "12.-14.7.2024"
+    },
+    {
+      "id": 9,
+      "nazov": "Fryštácký dogtrekking",
+      "km": "80 a více km",
+      "popis": "Dogtrekking zaradený do seriálu MČR",
+      "odkaz": "https://frystak.dogtrekking.info/",
+      "image": "logo.png",
+      "poloha": "Hostýnsko",
+      "datum": "5.-8.9.2024"
+    },
+    {
+      "id": 10,
+      "nazov": "DT Košťálov",
+      "km": "80 a více km",
+      "popis": "Dogtrekking zaradený do seriálu MČR",
+      "odkaz": "https://kostalov.webnode.cz/",
+      "image": "logo.png",
+      "poloha": "Podkrkonošské podhůří",
+      "datum": "19.-22.9.2024"
+    },
+    {
+      "id": 11,
+      "nazov": "Dogtrekking za pokladem Voka IV. z Holštejna",
+      "km": "90",
+      "popis": "Dogtrekking zaradený do seriálu MČR",
+      "odkaz": "https://dogtrekking-holstejn.cz/",
+      "image": "logo.png",
+      "poloha": "Moravský kras",
+      "datum": "3.-6.10.2024"
+    },
+    {
+      "id": 12,
+      "nazov": "Valašská Vlčica - Memoriál Alči Veselé",
+      "km": "80 a více km",
+      "popis": "Dogtrekking zaradený do seriálu MČR",
+      "odkaz": "https://www.yantarni.cz/dogtrekking",
+      "image": "logo.png",
+      "poloha": "Chřiby",
+      "datum": "25.-28.10.2024"
+    }
+  ],
+  "krajiny": [
+    {
+      "id": 1,
+      "nazov": "Rakusko",
+      "popis": "S dogtrekkingom v Rakúsku nemám skúsenosti. Každopádne kto by chcel skúsiť tak som priložila link na ich oficiálne stránky.",
+      "odkaz": "https://www.dogtrekking.at/"
+    },
+    {
+      "id": 2,
+      "nazov": "Poľsko",
+      "popis": "Dogtrekking v Poľsku je iný než ten v Čechách. Vzdialenosti nebývajú nad 50km. Určite by som to niekedy išla skúsiť, majú tam rovnaký seriál závodov ako aj v ČR. Určite to musí byť pekná akcia.",
+      "odkaz": "https://dogtrekking.com.pl/"
+    },
+    {
+      "id": 3,
+      "nazov": "Nemecko",
+      "popis": "S dogtrekkingom v Nemecku nemám skúsenosti. Každopádne kto by chcel skúsiť tak som priložila link na ich oficiálne stránky.",
+      "odkaz": "https://www.dog-trekking.info/"
+    },
+    {
+      "id": 4,
+      "nazov": "Španielsko",
+      "popis": "Každoročne sa uskutočňuje pretek aj v Španielsku. Podľa toho čo viem, presťahovala sa tam jedna Češka a usporiadáva tam tento milovaný závod. Jazdia tam viacerí ľudia z Čiech a idú spolu v autách. Odkaz na preteky je z poslednej akcie.",
+      "odkaz": "https://www.facebook.com/events/319166980856088?ref=newsfeed"
+    }
+  ]
+}
